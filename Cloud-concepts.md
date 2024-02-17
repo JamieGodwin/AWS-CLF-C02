@@ -59,4 +59,3 @@
 - Responsibilities include managing the guest operating system, firewall configuration, and data encryption, as well as ensuring access control and identity management.
 ### Shared Controls
 - Some areas, like patch management and configuration management, are shared controls. AWS provides the tools, but customers are responsible for using these tools to manage their applications and data.
-
