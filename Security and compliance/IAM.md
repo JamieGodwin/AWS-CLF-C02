@@ -57,4 +57,16 @@
 - They are permissions we give to AWS to do things for us
 
 ## IAM security tools
-- 
+### Credentials report
+- An account that lists the current users and their credentials
+
+### Access advisor (user-level)
+- Shows the service permissions granted to a user and when they were last accessed
+
+## IAM best practices
+- Only use the root account for setup
+- One physical user = one AWS account
+- Create a strog password
+- Assign policies to groups, and then users to groups
+- Audit your account permissions
+
